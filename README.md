@@ -1,0 +1,2 @@
+# WPress
+wordpress static website 
