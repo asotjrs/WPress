@@ -1,0 +1,8 @@
+#af-wrapper #forum-profile .display-name, #af-wrapper input[type="checkbox"]:checked:before {color: #104c3a !important;}
+#af-wrapper .button-normal, #af-wrapper .title-element, #af-wrapper #forum-header, #af-wrapper #profile-header .background-avatar, #af-wrapper #profile-navigation, #af-wrapper input[type="radio"]:checked:before {background-color: #104c3a !important;}
+#af-wrapper input[type="radio"]:focus, #af-wrapper input[type="checkbox"]:focus, #af-wrapper #profile-header {border-color: #104c3a !important;}
+#af-wrapper .button-normal, #af-wrapper .title-element, #af-wrapper #forum-navigation a, #af-wrapper #forum-navigation-mobile a {border-color: #011468 !important;}
+#af-wrapper #profile-navigation a.active {background-color: #011468 !important;}
+#af-wrapper, #af-wrapper #forum-breadcrumbs a:hover, #af-wrapper .main-title {color: #380f03 !important;}
+#af-wrapper .main-title:before, #af-wrapper .editor-row-uploads .upload-hints, #af-wrapper .forum-stats, #af-wrapper .topic-stats, #af-wrapper .action-panel-description, #af-wrapper #forum-breadcrumbs, #af-wrapper #forum-breadcrumbs a, #af-wrapper .forum-post-date, #af-wrapper .post-footer, #af-wrapper .post-footer a, #af-wrapper .signature, #af-wrapper span.mention-nice-name, #af-wrapper .post-reactions .reaction, #af-wrapper #poll-results .poll-result-numbers, #af-wrapper #poll-results .poll-result-total, #af-wrapper #poll-warning, #af-wrapper .topic-icon:before, #af-wrapper .report-link, #af-wrapper .report-content:before, #af-wrapper input::placeholder, #af-wrapper .activity-time, #af-wrapper .unread-time {color: #777 !important;}
+#af-wrapper a, #af-wrapper .forum-post-menu a, #af-wrapper .post-author .topic-author, #af-wrapper #bottom-navigation {color: #142c60 !important;}
